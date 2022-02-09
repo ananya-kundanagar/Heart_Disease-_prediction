@@ -1,9 +1,9 @@
-# Heart-disease-prediction
+# Problem Statement 1 :Heart-disease-prediction
 This Project predicts heart-disease of people that is given in the data set 
 Jupyter notebook is used in this project
 
 
-#Problem Statement:
+# Problem Statement2:
 Write a program where:
 1. Identify all possible rearrengement of the digits of the input such that the result is a palindromic number.
 2. Assign the largest palindromic number
