@@ -1,16 +1,5 @@
-# Problem Statement 1 :Heart-disease-prediction
-This Project predicts heart-disease of people that is given in the data set 
-Jupyter notebook is used in this project
+The Heart-disease-prediction project aims to predict the occurrence of heart disease in people based on various factors. The project utilizes a dataset containing several attributes such as age, sex, blood pressure, cholesterol levels, and more to build a machine learning model. The Jupyter notebook is used to implement the machine learning model, and various libraries such as Pandas, NumPy, and Scikit-learn are used for data analysis and modeling. The goal of the project is to accurately predict the occurrence of heart disease in people, which can help in early detection and prevention of heart-related illnesses.
 
 
-# Problem Statement2:
-Infytq Question <br>
-Write a program where:
-1. Identify all possible rearrengement of the digits of the input such that the result is a palindromic number.
-2. Assign the largest palindromic number
-3. if no palindrome can be formed , print -1 <br>
-Eg:
-| Input  | Output |
-| -------| ------ |
-| 2341   | -1     |
-| 38803  | 830038 |
+
+
